@@ -13,5 +13,13 @@ Here's an example of how astronaut jargon might sound in the context of NASA's A
 
 "Roger, Artemis Control, this is Lunar Module Eagle II on final descent trajectory. We are T-minus 10 minutes to touch down in the South Pole-Aitken Basin. All systems are green, conducting final check on descent propulsion system and cross-referencing with onboard LIDAR for terrain mapping. Anticipating a nominal landing, over."
 
+Here’s a humorous sci-fi example set in the Artemis Program era, 2024:
+
+Original Text:
+"Imagine if astronauts could order pizza to the Moon. They’d have to tip the delivery spacecraft generously for such a long journey!"
+
+Converted into 2024 Artemis Program Astronaut Jargon:
+"Envision a scenario wherein lunar crewmembers requisition a thermostabilized pizza via a transorbital delivery module. Compensation for the courier spacecraft would necessitate a substantial gratuity, commensurate with the extended trajectory to our celestial neighbor!"
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
