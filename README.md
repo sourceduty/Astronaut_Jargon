@@ -9,5 +9,9 @@ Channeling the spirit of 1969, the epoch of the Apollo 11 Moon landing, here’s
 
 "Initiating capture sequence of Terra imagery as we orbit the lunar surface. The Hasselblad is secured and set for high-resolution shots. Adjusting the focal settings to compensate for the stark luminosity contrast between Earthshine and the surrounding cosmic void. This will ensure we preserve the vivid azure hues of Earth's hydrosphere and the diverse terrestrial landscapes visible from our current apogee. Over."
 
+Here's an example of how astronaut jargon might sound in the context of NASA's Artemis program:
+
+"Roger, Artemis Control, this is Lunar Module Eagle II on final descent trajectory. We are T-minus 10 minutes to touch down in the South Pole-Aitken Basin. All systems are green, conducting final check on descent propulsion system and cross-referencing with onboard LIDAR for terrain mapping. Anticipating a nominal landing, over."
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
